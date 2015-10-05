@@ -13,5 +13,6 @@ namespace Brigadier.LojaVirtual.Dominio.Entidades
         public string  ProdutoDescr { get; set; }
         public decimal ProdutoPreco { get; set; }
         public string  ProdutoCateg { get; set; }
+
     }
 }
